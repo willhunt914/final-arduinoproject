@@ -1,4 +1,4 @@
-D# final-arduinoproject
+#final-arduinoproject
 This is the final project in the arduino lessons 
 
 our plan was to slowly work on the project one week at a time so we can get it done earlier 
