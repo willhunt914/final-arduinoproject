@@ -1,7 +1,7 @@
 #final-arduinoproject
 This is the final project in the arduino lessons it adds onto the servo project. 
 
-our plan was to slowly work on the project one week at a time so we can get it done earlier. We also split up the project into different parts to help lighten the load of the work.  
+My plan was to slowly work on the project one week at a time so we can get it done earlier. We also split up the project into different parts to help lighten the load of the work.  
 
 Parts used:Breadboard, Arduino, Servo, Wires, Pushbutton, Led, 9v battery
 
